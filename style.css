@@ -1,0 +1,28 @@
+html, body {
+height: 100%
+width: 100%
+align-items: center;
+}
+.button{
+    padding: 30px;
+    margin:  10px;
+    border: 2px solid rgb(140, 11, 226);
+    border-radius: 15px;
+    cursor: pointer;
+    width: 66px
+    
+}
+.row{
+
+    margin: 10px 0;
+
+}
+.row input{
+    width: 200px;
+    font-size: 20px;
+    margin: 20px;
+    padding: 25px 50px;s
+    border: 3px solid black;
+    border-radius: 15px;
+width: calc(100% - 100px);
+}
